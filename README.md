@@ -12,6 +12,9 @@
 * Predictions Page: 
   * It contains a regression model which gets it's data from the backend and then predicts the trend for the next year based on current year revenue.
 
+```
+While visiting the website, please be patient as render.com may take some time to respond
+```
 [Visit Financeer](https://financeer-qeo8.onrender.com)
 
 ***
